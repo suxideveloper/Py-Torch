@@ -88,4 +88,6 @@ test_list  = [23, 34, 45, 32, 67, 78, 66, 21, 89]
 d = len(test_list)
 
 
+
+
 print(d)
